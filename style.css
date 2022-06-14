@@ -72,3 +72,8 @@ button#btn:hover {
     border: transparent;
     font-size: 18px;
 }
+
+a:hover {
+    background: #F5E8C4;
+    padding: 10px;
+}
